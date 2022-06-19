@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @DOOryUniverse
+- 👋 Hi, I’m Taehwan Kim
 - 👀 I’m interested in DATA Analyst
 - 🌱 I’m currently learning on Ubion- Big data Analyst
 - 💞️ I’m looking to collaborate on UBION data team
-- 📫 How to reach me ... doory114@gmail.com / dooryman114@naver.com
--  my notion... https://www.notion.so/Hello-I-m-LEE-JUNG-HWAN-c6eed5882cf144669b14b4514798c475
--  You can also visit my Tistory ..... https://jhda.tistory.com/
+- 📫 How to reach me ... kimtaehwan07@gmail.com / tae_hwan7@naver.com
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://github.com/DOOryUniverse) <a href="https://jhda.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181717?style=flat-square&logo=Tistory&logoColor=white"/></a>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doory114@gmail.com)](mailto:doory114@gmail.com)[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/jghwan2da/)
