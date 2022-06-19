@@ -11,8 +11,8 @@
 ### Who Am I
 
 - 🌱 I’m currently learning Coding
-- 🥇 I majored in Industrial and Management Engineering (2016 ~ 2022)
-- 🚅 My hometown is Goyang, Gyeong-gi-do in Korea
+- 🥇 I majored in Statistics and Econonmics (2016 ~ 2022)
+- 🚅 My hometown is Seoul in Korea
 
 
 ### What I Like
