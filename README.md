@@ -5,14 +5,12 @@
 - 📫 How to reach me ... kimtaehwan07@gmail.com / tae_hwan7@naver.com
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://github.com/KTH7) <a href="https://jhda.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181717?style=flat-square&logo=Tistory&logoColor=white"/></a>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doory114@gmail.com)](mailto:doory114@gmail.com)[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/jghwan2da/)
 
 
 ### Who Am I
 
 - 🌱 I’m currently learning Coding
 - 🥇 Dongguk Univ. Statistics and Econonmics (2016.03 ~ )
-- 
 - 🚅 My hometown is Seoul in Korea
 
 
@@ -31,7 +29,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&amp;style=for-the-badge&amp;logo=MySQL&amp;logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?amp;style=for-the-badge&amp;logo=R&amp;logoColor=white)
-
+![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?amp;style=for-the-badge&amp;logo=RStudio&amp;logoColor=white)
 
 
 ### Tools
