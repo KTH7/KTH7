@@ -26,10 +26,10 @@
 
 # 💪Skills
 ### Platforms &amp; Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&amp;style=for-the-badge&amp;logo=MySQL&amp;logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?amp;style=for-the-badge&amp;logo=R&amp;logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?amp;style=for-the-badge&amp;logo=RStudio&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=plastic&amp;logo=Python&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&amp;style=plastic&amp;logo=MySQL&amp;logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?amp;style=plastic&amp;logo=R&amp;logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?amp;style=plastic&amp;logo=RStudio&amp;logoColor=white)
 
 
 ### Tools
