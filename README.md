@@ -26,11 +26,23 @@
 
 # 💪Skills
 ### Platforms &amp; Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=plastic&amp;logo=Python&amp;logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&amp;style=plastic&amp;logo=MySQL&amp;logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?amp;style=plastic&amp;logo=R&amp;logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?amp;style=plastic&amp;logo=RStudio&amp;logoColor=white)
+<div align=left>     
+    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
+    <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>      
+</div>
 
+#### ML, DL
+
+<div align=left>
+    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
+    <img alt="" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  
+    <img alt="" src=""> 
+</div>
+<br/>
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&amp;style=for-the-badge&amp;logo=Git&amp;logoColor=white)
