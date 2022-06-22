@@ -9,15 +9,15 @@
 
 ### Who Am I
 
-- 🌱 I’m currently learning Coding
-- 🥇 Dongguk Univ. Statistics and Econonmics (2016.03 ~ )
-- 🚅 My hometown is Seoul in Korea
+-  I’m currently learning Coding
+-  Dongguk Univ. Statistics and Econonmics (2016.03 ~ )
+-  My hometown is Seoul in Korea
 
 
 ### What I Like
-
-
-- 🐓 Chicken
+- EPL
+- Liverpool
+- Chicken
 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=doory114">  
@@ -30,6 +30,7 @@
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
     <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
     <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>      
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>    
 </div>
 
 #### ML, DL
@@ -40,7 +41,6 @@
     <img alt="" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  
-    <img alt="" src=""> 
 </div>
 <br/>
 
