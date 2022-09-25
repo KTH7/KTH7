@@ -3,22 +3,23 @@
 - 🌱 Dongguk University - STATISTICS & ECONOMICS (2016.03 ~ 2022.08)
 - 💞️ UBION FINANCE BIGDATA EXPERT EDUCATION (2022.01 ~ 2022.07)
 - 📫 NICE D&B INTERN (2022.07 ~ )
-How to reach me ... kimtaehwan07@gmail.com / tae_hwan7@naver.com
+
 
 
 
 ### Who Am I
 
 -  I’m currently learning Coding
--  Dongguk Univ. Statistics and Econonmics (2016.03 ~ )
 -  My hometown is Seoul in Korea
+-  How to reach me ... kimtaehwan07@gmail.com / tae_hwan7@naver.com
+
 
 
 ### What I Like
 - EPL
 - Liverpool
 - Chicken
-
+- Riding a bicycle
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=doory114">  
 
