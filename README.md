@@ -6,22 +6,6 @@
 
 
 
-
-### Who Am I
-
--  I’m currently learning Coding
--  My hometown is Seoul in Korea
--  How to reach me ... kimtaehwan07@gmail.com / tae_hwan7@naver.com
-
-
-
-### What I Like
-- EPL
-- Liverpool
-- Chicken
-- Riding a bicycle
-
-
 # 💪Skills
 ### Platforms &amp; Languages
 <div align=left>     
