@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taehwan Kim
-- 👀 I’m interested in DATA Analyst
+- 👀 I’m interested in DATA
 - 🌱 Dongguk University - STATISTICS & ECONOMICS (2016.03 ~ 2022.08)
 - 💞️ UBION FINANCE BIGDATA EXPERT EDUCATION (2022.01 ~ 2022.07)
 - 📫 NICE D&B INTERN (2022.07 ~ )
