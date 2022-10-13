@@ -33,6 +33,7 @@
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
     <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> 
     <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
+    <img alt="Tableu" src="https://img.shields.io/badge/tableu-E97627?style=flat-square&logo=tableu&logoColor=white">
 </div>
 
 #### ML, DL
@@ -45,10 +46,6 @@
     <img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  
 </div>
 <br/>
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&amp;style=for-the-badge&amp;logo=Git&amp;logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&amp;style=for-the-badge&amp;logo=Visual%20Studio%20Code&amp;logoColor=white)
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=KTH7" height="165">  
