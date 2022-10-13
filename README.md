@@ -21,9 +21,6 @@
 - Chicken
 - Riding a bicycle
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=doory114">  
-
-
 
 # 💪Skills
 ### Platforms &amp; Languages
