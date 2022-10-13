@@ -33,7 +33,7 @@
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
     <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> 
     <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
-    <img alt="Tableu" src="https://img.shields.io/badge/tableu-E97627?style=flat-square&logo=tableu&logoColor=white">
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
 </div>
 
 #### ML, DL
