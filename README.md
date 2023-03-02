@@ -5,6 +5,7 @@
 - 📫 NICE D&B INTERN (2022.07 ~ )
 
 https://www.notion.so/Taehwan-Kim-81816ffb37c542799b44e4870dc4498a
+
 https://velog.io/@kthwan7
 # 💪Skills
 ### Platforms &amp; Languages
