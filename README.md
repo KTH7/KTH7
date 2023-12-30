@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taehwan Kim
 - 👀 I’m interested in DATA
-- 🌱 Dongguk University - STATISTICS & ECONOMICS (2016.03 ~ 2022.08)
+
 - 💞️ UBION FINANCE BIGDATA EXPERT EDUCATION (2022.01 ~ 2022.07)
 - 📫 NICE D&B INTERN (2022.07 ~ 2022.11)
 - 📫 eCredible (2023.06 ~ 2022.09)
