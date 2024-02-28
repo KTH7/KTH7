@@ -5,8 +5,7 @@
 - 📫 NICE D&B INTERN (2022.07 ~ 2022.11)
 - 📫 eCredible (2023.06 ~ 2022.09)
   
-[https://www.notion.so/Taehwan-Kim-81816ffb37c542799b44e4870dc4498a](https://www.notion.so/da-kimtaehwan/19005703a1c24d2d9b56c91569cae03c)
-
+https://www.notion.so/da-kimtaehwan/19005703a1c24d2d9b56c91569cae03c
 # 💪Skills
 ### Platforms &amp; Languages
 <div align=left>     
