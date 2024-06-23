@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Taehwan Kim
 - 👀 I’m interested in DATA
 
-- 💞️ UBION FINANCE BIGDATA EXPERT EDUCATION (2022.01 ~ 2022.07)
+- 💞️ UBION FINANCE BIGDATA EXPERT EDUCATION (2022.01 ~ 2022.06)
 - 📫 NICE D&B INTERN (2022.07 ~ 2022.11)
-- 📫 eCredible (2023.06 ~ 2022.09)
+- 📫 eCredible (2023.06 ~ 2023.09)
   
 https://www.notion.so/da-kimtaehwan/19005703a1c24d2d9b56c91569cae03c
 # 💪Skills
